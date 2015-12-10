@@ -6,7 +6,7 @@
 
 D3 中文网是以 D3 为主的数据可视化专业社区。包含文档、在线演示、问答、博客、书签、个人中心等多种功能。
 
-## [**去 Wiki 关注我们的进度**](https://github.com/VisualCrew/d3js.org.cn/wiki)
+## [**去 Wiki 了解详情**](https://github.com/VisualCrew/d3js.org.cn/wiki)
 
 
 # 核心需求
